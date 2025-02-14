@@ -20,11 +20,11 @@
 </br> 
 <br/>
 7.Skills:
-|name			| |skills			|
-|-----------------------| |-----------------------------|
-|Xia Wei|		| |Python, Web Development (HTML, CSS, JavaScript)|
-|Xingyua He		| |Python, Data Analysis  Machine Learning Basics|
-|Yunlong Zhang		| |Python, R, C++,some knowledge about database|
+|name			|skills			|
+|-----------------------|-----------------------------|
+|Xia Wei |Python, Web Development (HTML, CSS, JavaScript)|
+|Xingyua He |Python, Data Analysis  Machine Learning Basics|
+|Yunlong Zhang |Python, R, C++,some knowledge about database|
 <br/>
 <br/>
 8.Code management: GitHub
