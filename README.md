@@ -4,7 +4,7 @@
 1.Team members: Xia Wei, Xingyuan He, Yunlong Zhang
 </br> 
 </br> 
-2.Team name:ZHW
+2.Team name: ZHW
 </br> 
 </br> 
 3.Date of kickoff meeting: Feb 12th,2025
@@ -18,14 +18,17 @@
 </br> 
 6.Communication technology: Wechat
 </br> 
+</br> 
+<b>7. Skills:<b>
+</br> 
 <br/>
-7.Skills:
-|name			|skills			|
+
+|name                   |skills                       |
 |-----------------------|-----------------------------|
 |Xia Wei |Python, Web Development (HTML, CSS, JavaScript)|
 |Xingyua He |Python, Data Analysis  Machine Learning Basics|
 |Yunlong Zhang |Python, R, C++,some knowledge about database|
-<br/>
+
 <br/>
 8.Code management: GitHub
 <br/>
